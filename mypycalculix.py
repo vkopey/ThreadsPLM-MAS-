@@ -3,9 +3,9 @@ import sys
 
 import pycalculix as pyc
 # шлях до gmsh, ccx, cgx
-pyc.environment.GMSH=r"d:\Portable\gmsh-4.8.4-Windows64\gmsh.exe"
-pyc.environment.CCX=r"d:\Portable\cae_20200725_windows\bin\ccx.exe"
-pyc.environment.CGX=r"d:\Portable\cae_20200725_windows\bin\cgx.exe"
+pyc.environment.GMSH=r"gmsh-4.8.4-Windows64\gmsh.exe"
+pyc.environment.CCX=r"cae_20200725_windows\bin\ccx.exe"
+pyc.environment.CGX=r"cae_20200725_windows\bin\cgx.exe"
 
 show_gui = True # показувати графіки
 
