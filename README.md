@@ -1,6 +1,6 @@
 # ThreadsPLM-MAS-
 ## Educational multi-agent PLM system for threaded connections 
-Authors: Kopei V.B.(vkopey@gmail.com, volodymyr.kopey@nung.edu.ua), Onysko O.R.(onysko.oleg@gmail.com, onysko.oleg@nung.edu.ua)
+Authors: Kopei V.B.(vkopey@gmail.com, volodymyr.kopey@nung.edu.ua), Onysko O.R.(onysko.oleg@gmail.com, oleh.onysko@nung.edu.ua)
 ## Навчальна мультиагентна PLM-система для підтримки життєвого циклу різьбових з’єднань
 Автори: Копей В. Б. , Онисько О. Р. 
 ## Install:
@@ -28,3 +28,8 @@ b) Null-modem emulator (com0com)
 ## Usage:
 1. Run ThreadPLM_ray.bat
 2. Cells/Run all 
+
+## Citing:
+If you use ThreadsPLM-MAS- please cite the following reference in your work (books, articles, reports, etc.):
+
+Kopei, V.; Onysko, O.; Barz, C.; Dašić, P.; Panchuk, V. Designing a Multi-Agent PLM System for Threaded Connections Using the Principle of Isomorphism of Regularities of Complex Systems. Machines 2023, 11, 263. https://doi.org/10.3390/machines11020263
