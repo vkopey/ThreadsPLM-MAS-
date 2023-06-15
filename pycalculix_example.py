@@ -77,6 +77,4 @@ if __name__=="__main__":
     Y=[]
     for t in [0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5]:
         Y.append(run())
-
-
-
+    print(Y)
